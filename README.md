@@ -14,7 +14,7 @@ airflow db init <br>
 create a new file .env and add the following lines
 <br><br>
 
-AIRFLOW_IMAGE_NAME=apache/airflow:2.4.2
+AIRFLOW_IMAGE_NAME=apache/airflow:2.4.2 <br>
 AIRFLOW_UID=50000
 
 give docker-compose.yaml file
