@@ -12,7 +12,7 @@ airflow db init <br>
 <br>
 
 create a new file .env and add the following lines
-<br>
+<br><br>
 
 AIRFLOW_IMAGE_NAME=apache/airflow:2.4.2
 AIRFLOW_UID=50000
