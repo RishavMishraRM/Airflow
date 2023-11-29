@@ -9,7 +9,7 @@ set AIRFLOW_HOME=.<be>
 <br><be>
 
 airflow db init <br>
-
+<br><br>
 
 create a new file .env and add the following lines
 
