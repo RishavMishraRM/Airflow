@@ -16,7 +16,7 @@ create a new file .env and add the following lines
 
 AIRFLOW_IMAGE_NAME=apache/airflow:2.4.2 <br>
 AIRFLOW_UID=50000
-
+<br>
 give docker-compose.yaml file
 
 docker-compose up -d
