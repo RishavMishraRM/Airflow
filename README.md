@@ -1,11 +1,11 @@
 # Apache Airflow
 
 
-export AIRFLOW_HOME=. 
-or
-set AIRFLOW_HOME=.
+export AIRFLOW_HOME=. <br>
+or <br>
+set AIRFLOW_HOME=.<br>
 
-airflow db init
+airflow db init <br>
 
 
 create a new file .env and add the following lines
