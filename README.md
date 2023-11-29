@@ -3,7 +3,10 @@
 
 export AIRFLOW_HOME=. <br>
 or <br>
-set AIRFLOW_HOME=.<br>
+set AIRFLOW_HOME=.<be>
+
+
+<br><be>
 
 airflow db init <br>
 
